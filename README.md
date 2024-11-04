@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Engineer with experien
 ## 🚀 About Me
 
 - 🌍 **Location:** [Columbus, OH, United States]
-- 💼 **Current Role:** [Full-stack Engineer]
-- 🌐 **Website:** [Your Personal Website/Portfolio] (Optional)
+- 💼 **Current Role:** [Full-stack developer]
+- 🌐 **Website:** [Not yet deployed]
 
 ## 🛠️ Technologies & Tools
 
